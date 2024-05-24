@@ -1,0 +1,18 @@
+﻿Jakiego typu jest zmienna "x" w poniższym fragmencie kodu?
+a) int
+b) double
+c) string
+d) float
+a1
+Który z tych operatorów służy do porównywania dwóch wartości w C#?
+a) ===
+b) =!
+c) ==
+d) ><
+a2
+Co zwróci metoda IndexOf w poniższym kodzie, gdy myString = "hello"?
+a) 0
+b) 1
+c) 4
+d) -1
+a3
